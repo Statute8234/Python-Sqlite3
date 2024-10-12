@@ -1,6 +1,5 @@
 # Movie List Manager
-[![sqlite3](https://img.shields.io/badge/sqlite3-brown)](https://docs.python.org/3/library/sqlite3.html)
-[![random](https://img.shields.io/badge/random-pink)](https://docs.python.org/3/library/random.html)
+[![Static Badge](https://img.shields.io/badge/sqlite3,-black)](https://pypi.org/project/sqlite3,/)
 
 This Python script provides a command-line interface for managing a list of movies. The script uses SQLite for database management and allows users to add, edit, display, and suggest movies, as well as manage the movie list through a "danger zone" for removing and clearing data.
 
